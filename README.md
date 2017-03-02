@@ -11,7 +11,7 @@ A curated list of the top papers in decentralized systems (cryptocurrencies, con
 - **Hashcash - A Denial of Service Counter-Measure** (2002), A. Back [[pdf]](http://www.hashcash.org/hashcash.pdf)
 - **The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments** (2016), J. Poon and T. Dryja [[pdf]](https://lightning.network/lightning-network-paper.pdf)
 - **Zerocash: Decentralized Anonymous Payments from Bitcoin** (2014), E. Ben-Sasson et al. [[pdf]](http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf)
-- **An Analysis of Anonymity in the Bitcoin System** (2016), F. Reid and M. Harrigan [[pdf]]( https://arxiv.org/pdf/1107.4524.pdf)
+- **An Analysis of Anonymity in the Bitcoin System** (2012), F. Reid and M. Harrigan [[pdf]]( https://arxiv.org/pdf/1107.4524.pdf)
 
 ### Smart Contracts
 - **Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform** (2014), V. Buterin et al. [[md]](https://github.com/ethereum/wiki/wiki/White-Paper)
