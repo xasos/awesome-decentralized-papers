@@ -14,6 +14,7 @@ A curated list of the top papers in decentralized systems (cryptocurrencies, con
 
 ### Smart Contracts
 - **Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform** (2014), V. Buterin et al. [[md]](https://github.com/ethereum/wiki/wiki/White-Paper)
+- **Ethereum: A Secure Decentralised Generalised Transaction Ledger** (2014), G. Wood [[pdf]](http://gavwood.com/paper.pdf)
 
 ### Decentralized Storage Schemes
 - **BigchainDB: A Scalable Blockchain Database** (2016), T. McConaghy et al. [[pdf]](https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf)
