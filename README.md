@@ -2,7 +2,13 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of the top papers in decentralized systems (cryptocurrencies, contracts, consensus, etc.)
+A curated list of the top papers in decentralized systems (cryptocurrencies, contracts, consensus, etc.).
+
+<!-- *What is a Decentralized System?* A decentralized system is a trustless, distributed one in which control of the network is distributed across many nodes. -->
+
+<!-- ## Background
+
+TODO -->
 
 * * *
 
