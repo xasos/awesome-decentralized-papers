@@ -20,6 +20,7 @@ TODO -->
 - **An Analysis of Anonymity in the Bitcoin System** (2012), F. Reid and M. Harrigan [[pdf]](https://arxiv.org/pdf/1107.4524.pdf)
 - **Bitcoin and Cryptocurrency Technologies** (2016), A. Narayanan et. al [[pdf]]( https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf)
 - **KARMA: A Secure Economic Framework for Peer-to-Peer Resource Sharing** (2003), V. Vishnumurthy et. al [[pdf]]( http://cs.brown.edu/courses/csci2950-g/papers/karma.pdf)
+- **PPCoin: Peer-to-Peer Crypto-Currency with Proof-of-Stake** (2003), S. King and S. Nadal [[pdf]](  https://peercoin.net/assets/paper/peercoin-paper.pdf)
 
 ### Smart Contracts
 - **Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform** (2014), V. Buterin et al. [[md]](https://github.com/ethereum/wiki/wiki/White-Paper)
