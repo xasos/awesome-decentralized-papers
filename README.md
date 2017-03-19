@@ -71,6 +71,7 @@ TODO -->
 - MAS.S65, Blockchain Technologies: Decentralize all the Things, Massachusetts Institute of Technology [[web]](http://blockchain.media.mit.edu/syllabus.html)
 - CS251P, Bitcoin Engineering, Stanford University [[web]](http://bitcoin.stanford.edu/)
 - CS251, Bitcoin and Cryptocurrencies, Stanford University [[web]](https://crypto.stanford.edu/cs251/)
+- Bitcoin and Cryptocurrency Technologies, Princeton University (Coursera) [[web]](https://www.coursera.org/learn/cryptocurrency)
 
 <!-- *(Tutorials)*
 - NIPS 2016 Tutorials, Long Beach [[web]](https://nips.cc/Conferences/2016/Schedule?type=Tutorial)
