@@ -35,8 +35,7 @@ TODO -->
 - **The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments** (2016), J. Poon and T. Dryja [[pdf]](https://lightning.network/lightning-network-paper.pdf)
 - **Zerocash: Decentralized Anonymous Payments from Bitcoin** (2014), E. Ben-Sasson et al. [[pdf]](http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf)
 - **An Analysis of Anonymity in the Bitcoin System** (2012), F. Reid and M. Harrigan [[pdf]](https://arxiv.org/pdf/1107.4524.pdf)
-- **Bitcoin and Cryptocurrency Technologies** (2016), A. Narayanan et. al [[pdf]]( https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf)
-- **KARMA: A Secure Economic Framework for Peer-to-Peer Resource Sharing** (2003), V. Vishnumurthy et. al [[pdf]]( http://cs.brown.edu/courses/csci2950-g/papers/karma.pdf)
+- **KARMA: A Secure Economic Framework for Peer-to-Peer Resource Sharing** (2003), V. Vishnumurthy et al. [[pdf]]( http://cs.brown.edu/courses/csci2950-g/papers/karma.pdf)
 - **PPCoin: Peer-to-Peer Crypto-Currency with Proof-of-Stake** (2013), S. King and S. Nadal [[pdf]](  https://peercoin.net/assets/paper/peercoin-paper.pdf)
 - **Chord: A Scalable Peer-to-peer Lookup Protocol for Internet Applications** (2001), I. Stoica et al. [[pdf]](https://pdos.csail.mit.edu/papers/ton:chord/paper-ton.pdf)
 
@@ -59,7 +58,33 @@ TODO -->
 - **Augur: a Decentralized, Open-Source Platform for Prediction Markets** (2016), J. Peterson and J. Krug [[pdf]](http://bravenewcoin.com/assets/Whitepapers/Augur-A-Decentralized-Open-Source-Platform-for-Prediction-Markets.pdf)
 - **Numeraire: A Cryptographic Token for Coordinating Machine Intelligence and Preventing Overfitting** (2017), R. Craib et al. [[pdf]](https://numer.ai/whitepaper.pdf)
 
-<!-- TODO: monetary policies, economics?, markets?, financial and economic implications research labs, and top researchers -->
+* * *
+
+### Book / Survey / Review
+- Bitcoin and Cryptocurrency Technologies (Book, 2016), A. Narayanan et al. [[html]](http://bitcoinbook.cs.princeton.edu/)
+- Mastering Bitcoin (Book, 2015), A. Antonopoulos [[html]](https://www.bitcoinbook.info/)
+
+### Video Lectures / Tutorials / Blogs
+
+*(Lectures)*
+- ECE598AM, Cryptocurrency Security, University of Illinois at Urbana-Champaign [[web]](http://soc1024.ece.illinois.edu/teaching/ece598am/fall2016/)
+- MAS.S65, Blockchain Technologies: Decentralize all the Things, Massachusetts Institute of Technology [[web]](http://blockchain.media.mit.edu/syllabus.html)
+- CS251P, Bitcoin Engineering, Stanford University [[web]](http://bitcoin.stanford.edu/)
+- CS251, Bitcoin and Cryptocurrencies, Stanford University [[web]](https://crypto.stanford.edu/cs251/)
+
+<!-- *(Tutorials)*
+- NIPS 2016 Tutorials, Long Beach [[web]](https://nips.cc/Conferences/2016/Schedule?type=Tutorial)
+- ICML 2016 Tutorials, New York City [[web]](http://techtalks.tv/icml/2016/tutorials/)
+- ICLR 2016 Videos, San Juan [[web]](http://videolectures.net/iclr2016_san_juan/)
+- Deep Learning Summer School 2016, Montreal [[web]](http://videolectures.net/deeplearning2016_montreal/)
+- Bay Area Deep Learning School 2016, Stanford [[web]](https://www.bayareadlschool.org/) -->
+
+*(Blogs)*
+- Hacking, Distributed (Emin Gün Sirer) [[web]](http://hackingdistributed.com/)
+
+<!-- ### Research Labs / Professors -->
+
+<!-- TODO: monetary policies, economics?, markets?, financial and economic implications research labs, and top researchers, disclaimer about focus on technology and not economics -->
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
