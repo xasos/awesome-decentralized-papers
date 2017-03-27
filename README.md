@@ -72,6 +72,7 @@ TODO -->
 - CS251P, Bitcoin Engineering, Stanford University [[web]](http://bitcoin.stanford.edu/)
 - CS251, Bitcoin and Cryptocurrencies, Stanford University [[web]](https://crypto.stanford.edu/cs251/)
 - Bitcoin and Cryptocurrency Technologies, Princeton University (Coursera) [[web]](https://www.coursera.org/learn/cryptocurrency)
+- 08-303, Cryptocurrencies, Blockchains, and Applications, Carnegie Mellon University [[web]](https://piazza.com/cmu/spring2017/08303)
 
 <!-- *(Tutorials)*
 - NIPS 2016 Tutorials, Long Beach [[web]](https://nips.cc/Conferences/2016/Schedule?type=Tutorial)
