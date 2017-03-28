@@ -83,6 +83,9 @@ TODO -->
 
 *(Blogs)*
 - Hacking, Distributed (Emin Gün Sirer) [[web]](http://hackingdistributed.com/)
+- Unenumerated (Nick Szabo) [[web]](http://unenumerated.blogspot.com/)
+- Vitalik Buterin [[web]](http://vitalik.ca/)
+- Gavin Andresen [[web]](http://gavinandresen.ninja/)
 
 <!-- ### Research Labs / Professors -->
 
