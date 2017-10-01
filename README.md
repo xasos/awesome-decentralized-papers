@@ -2,13 +2,15 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of the top papers in decentralized systems (cryptocurrencies, contracts, consensus, etc.)
+A curated list of the top papers in decentralized systems (cryptocurrencies, contracts, consensus, etc.) This list has a focus on the technical aspects of decentralized systems primarily.
 
-<!-- *What is a Decentralized System?* A decentralized system is a trustless, distributed system in which ??? -->
+## Background
 
-<!-- ## Background
+***What is a decentralized system?***
+A decentralized system is a system in which lower level components operate on local information to accomplish global goals. The global pattern of behaviour is an emergent property of dynamical mechanisms that act upon local components, such as indirect communication, rather than the result of a central ordering influence. (definition taken from [here](https://en.wikipedia.org/wiki/Decentralised_system))
 
-TODO -->
+**History**
+While decentralized systems occupy a fairly broad set of research in privacy, security, finance, and more, they have become ever-more relevant in today's ecosystem. The academic side of the technology has recently gone through a renaissance period, after the release of the Bitcoin whitepaper by Satoshi Nakamoto in 2008.
 
 ## Table of Contents
 
@@ -19,13 +21,13 @@ TODO -->
 * [Prediction Markets](#prediction-markets)
 
 <!-- *(More than Top 100)*
-
 * [New Papers](#new-papers) : Less than 6 months
 * [Old Papers](#old-papers) : Before 2012
 * [HW / SW / Dataset](#hw--sw--dataset) : Technical reports
 * [Book / Survey / Review](#book--survey--review)
 * [Video Lectures / Tutorials / Blogs](#video-lectures--tutorials--blogs)
-* [Appendix: More than Top 100](#appendix-more-than-top-100) : More papers not in the list -->
+* [Appendix: More than Top 100](#appendix-more-than-top-100) : More papers not in the list 
+change order of sections - add ones for bitcoin-->
 
 * * *
 
@@ -37,7 +39,9 @@ TODO -->
 - **An Analysis of Anonymity in the Bitcoin System** (2012), F. Reid and M. Harrigan [[pdf]](https://arxiv.org/pdf/1107.4524.pdf)
 - **KARMA: A Secure Economic Framework for Peer-to-Peer Resource Sharing** (2003), V. Vishnumurthy et al. [[pdf]]( http://cs.brown.edu/courses/csci2950-g/papers/karma.pdf)
 - **PPCoin: Peer-to-Peer Crypto-Currency with Proof-of-Stake** (2013), S. King and S. Nadal [[pdf]](  https://peercoin.net/assets/paper/peercoin-paper.pdf)
-- **Chord: A Scalable Peer-to-peer Lookup Protocol for Internet Applications** (2001), I. Stoica et al. [[pdf]](https://pdos.csail.mit.edu/papers/ton:chord/paper-ton.pdf)
+- **A Fistful of Bitcoins: Characterizing Payments Among Men with No Names** (2013), S. Meiklejohn et al. [[pdf]](https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf)
+- **Reusable Proofs of Work** (2004), H. Finney [[html]](http://nakamotoinstitute.org/finney/rpow/theory.html)
+- **B-Money** (1998), W. Dai [[html]](http://www.weidai.com/bmoney.txt)
 
 ### [Smart Contracts](#smart-contracts)
 - **Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform** (2014), V. Buterin et al. [[md]](https://github.com/ethereum/wiki/wiki/White-Paper)
@@ -52,6 +56,8 @@ TODO -->
 ### [Consensus](#consensus)
 - **Paxos Made Simple** (2001), L. Lamport [[pdf]](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
 - **The Honey Badger of BFT Protocols** (2016), A. Miller et al. [[pdf]](https://eprint.iacr.org/2016/199.pdf)
+- **Power Fault Tolerance** (2017), Protocol Labs [[pdf]](http://filecoin.io/power-fault-tolerance.pdf)
+- **Practical Byzantine Fault Tolerance** (1999), M. Castro et al. [[pdf]](http://pmg.csail.mit.edu/papers/osdi99.pdf)
 
 ### [Prediction Markets](#prediction-markets)
 - **On Decentralizing Prediction Markets and Order Books** (2014), J. Clark et al. [[pdf]](http://www.econinfosec.org/archive/weis2014/papers/Clark-WEIS2014.pdf)
