@@ -42,7 +42,7 @@ change order of sections - add ones for bitcoin-->
 - **A Fistful of Bitcoins: Characterizing Payments Among Men with No Names** (2013), S. Meiklejohn et al. [[pdf]](https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf)
 - **Reusable Proofs of Work** (2004), H. Finney [[html]](http://nakamotoinstitute.org/finney/rpow/theory.html)
 - **B-Money** (1998), W. Dai [[html]](http://www.weidai.com/bmoney.txt)
-- **SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies** (2015), J. Bonneau [[pdf]](http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf)
+- **SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies** (2015), J. Bonneau et al. [[pdf]](http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf)
 
 ### [Smart Contracts](#smart-contracts)
 - **Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform** (2014), V. Buterin et al. [[md]](https://github.com/ethereum/wiki/wiki/White-Paper)
