@@ -35,7 +35,6 @@ change order of sections - add ones for bitcoin-->
 - **Bitcoin: A Peer-to-Peer Electronic Cash System** (2008), S. Nakamoto [[pdf]](https://bitcoin.org/bitcoin.pdf)
 - **Hashcash - A Denial of Service Counter-Measure** (2002), A. Back [[pdf]](http://www.hashcash.org/hashcash.pdf)
 - **The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments** (2016), J. Poon and T. Dryja [[pdf]](https://lightning.network/lightning-network-paper.pdf)
-- **Zerocash: Decentralized Anonymous Payments from Bitcoin** (2014), E. Ben-Sasson et al. [[pdf]](http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf)
 - **An Analysis of Anonymity in the Bitcoin System** (2012), F. Reid and M. Harrigan [[pdf]](https://arxiv.org/pdf/1107.4524.pdf)
 - **KARMA: A Secure Economic Framework for Peer-to-Peer Resource Sharing** (2003), V. Vishnumurthy et al. [[pdf]]( http://cs.brown.edu/courses/csci2950-g/papers/karma.pdf)
 - **PPCoin: Peer-to-Peer Crypto-Currency with Proof-of-Stake** (2013), S. King and S. Nadal [[pdf]](  https://peercoin.net/assets/paper/peercoin-paper.pdf)
@@ -43,6 +42,9 @@ change order of sections - add ones for bitcoin-->
 - **Reusable Proofs of Work** (2004), H. Finney [[html]](http://nakamotoinstitute.org/finney/rpow/theory.html)
 - **B-Money** (1998), W. Dai [[html]](http://www.weidai.com/bmoney.txt)
 - **SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies** (2015), J. Bonneau et al. [[pdf]](http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf)
+- **Provable Security for Cryptocurrencies** (2016), A. Miller [[pdf]](https://drum.lib.umd.edu/bitstream/handle/1903/18622/Miller_umd_0117E_17522.pdf?sequence=1)
+- **Non-interactive proofs of proof-of-work** (2017), A. Kiayias et al. [[pdf]](https://eprint.iacr.org/2017/963.pdf)
+- **Atomically Trading with Roger: Gambling on the success of a hardfork** (2017), P. McCorry et al. [[pdf]](http://homepages.cs.ncl.ac.uk/patrick.mc-corry/atomically-trading-roger.pdf)
 
 ### [Smart Contracts](#smart-contracts)
 - **Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform** (2014), V. Buterin et al. [[md]](https://github.com/ethereum/wiki/wiki/White-Paper)
@@ -51,7 +53,7 @@ change order of sections - add ones for bitcoin-->
 
 ### [Storage](#storage)
 - **BigchainDB: A Scalable Blockchain Database** (2016), T. McConaghy et al. [[pdf]](https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf)
-- **Filecoin: A Cryptocurrency Operated File Storage Network** (2014), J. Benet [[pdf]](http://filecoin.io/filecoin.pdf)
+- **Filecoin: A Cryptocurrency Operated File Storage Network** (2017), J. Benet [[pdf]](http://filecoin.io/filecoin.pdf)
 - **Blockstack: A Global Naming and Storage System Secured by Blockchains** (2016), M. Ali et al. [[pdf]](http://www.cs.princeton.edu/~mfreed/docs/blockstack-atc16.pdf)
 
 ### [Consensus](#consensus)
@@ -59,11 +61,26 @@ change order of sections - add ones for bitcoin-->
 - **The Honey Badger of BFT Protocols** (2016), A. Miller et al. [[pdf]](https://eprint.iacr.org/2016/199.pdf)
 - **Power Fault Tolerance** (2017), Protocol Labs [[pdf]](http://filecoin.io/power-fault-tolerance.pdf)
 - **Practical Byzantine Fault Tolerance** (1999), M. Castro et al. [[pdf]](http://pmg.csail.mit.edu/papers/osdi99.pdf)
+- **Casper the Friendly Finality Gadget** (2017), V. Buterin and V. Griffith [[pdf]](https://arxiv.org/pdf/1710.09437.pdf)
 
 ### [Prediction Markets](#prediction-markets)
 - **On Decentralizing Prediction Markets and Order Books** (2014), J. Clark et al. [[pdf]](http://www.econinfosec.org/archive/weis2014/papers/Clark-WEIS2014.pdf)
 - **Augur: a Decentralized, Open-Source Platform for Prediction Markets** (2016), J. Peterson and J. Krug [[pdf]](http://bravenewcoin.com/assets/Whitepapers/Augur-A-Decentralized-Open-Source-Platform-for-Prediction-Markets.pdf)
 - **Numeraire: A Cryptographic Token for Coordinating Machine Intelligence and Preventing Overfitting** (2017), R. Craib et al. [[pdf]](https://numer.ai/whitepaper.pdf)
+
+### [Verifiable Randomness](#verifiable-randomness)
+- **On Bitcoin as a public randomness source** (2015), J. Bonneau et al. [[pdf]](https://eprint.iacr.org/2015/1015.pdf)
+- **Proofs-of-delay and randomness beacons in Ethereum** (2017), B. Bünz et al. [[pdf]](http://stevengoldfeder.com/papers/BGB17-IEEESB-proof_of_delay_ethereum.pdf)
+- **Scalable Bias-Resistant Distributed Randomness** (2017), E. Syta et al. [[pdf]](http://ieeexplore.ieee.org/document/7958592/)
+
+### [Programming Languages/Formal Methods](#pm-fm)
+- **Simplicity: A New Language for Blockchains** (2017), R. O’Connor [[pdf]](https://blockstream.com/simplicity.pdf)
+- **KEVM: A Complete Semantics of the Ethereum Virtual Machine** (2017), E. Hildenbrandt et al. [[pdf]](https://www.ideals.illinois.edu/bitstream/handle/2142/97207/hildenbrandt-saxena-zhu-rodrigues-guth-daian-rosu-2017-tr.pdf)
+
+### [Zero Knowledge](#zkp)
+- **Zerocash: Decentralized Anonymous Payments from Bitcoin** (2014), E. Ben-Sasson et al. [[pdf]](http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf)
+- **Scalable Zero Knowledge via Cycles of Elliptic Curves** (2015), E. Ben-Sasson et al. [[pdf]](https://eprint.iacr.org/2014/595.pdf)
+- **Succinct Non-Interactive Zero Knowledge for a von Neumann Architecture** (2015), E. Ben-Sasson et al. [[pdf]](https://eprint.iacr.org/2013/879.pdf)
 
 * * *
 
@@ -71,7 +88,7 @@ change order of sections - add ones for bitcoin-->
 - Bitcoin and Cryptocurrency Technologies (Book, 2016), A. Narayanan et al. [[html]](http://bitcoinbook.cs.princeton.edu/)
 - Mastering Bitcoin (Book, 2015), A. Antonopoulos [[html]](https://www.bitcoinbook.info/)
 
-### Video Lectures / Tutorials / Blogs
+### Video Lectures / Blogs / Labs
 
 *(Lectures)*
 - ECE598AM, Cryptocurrency Security, University of Illinois at Urbana-Champaign [[web]](http://soc1024.ece.illinois.edu/teaching/ece598am/fall2016/)
@@ -94,7 +111,12 @@ change order of sections - add ones for bitcoin-->
 - Vitalik Buterin [[web]](http://vitalik.ca/)
 - Gavin Andresen [[web]](http://gavinandresen.ninja/)
 
-<!-- ### Research Labs / Professors -->
+*(Research Labs)*
+- Decentralized Systems Lab, University of Illinois at Urbana-Champaign [[web]](http://decentralize.ece.illinois.edu/)
+- The Initiative for Cryptocurrencies and Contracts, Cornell University [[web]](http://www.initc3.org/)
+- Digital Currency Initative, Massachusetts Institute of Technology [[web]](http://dci.mit.edu/)
+- Applied Cryptography Group, Stanford University [[web]](https://crypto.stanford.edu/)
+- crypto@berkeley, University of California, Berkeley [[web]](https://crypto.eecs.berkeley.edu/)
 
 <!-- TODO: monetary policies, economics?, markets?, financial and economic implications research labs, and top researchers, disclaimer about focus on technology and not economics -->
 ## License
