@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of the top papers in decentralized systems (cryptocurrencies, contracts, consensus, etc.) This list has a focus on the technical aspects of decentralized systems primarily.
+A curated list of the top papers in decentralized systems (cryptocurrencies, contracts, consensus, etc.) This list has a focus on the technical aspects of decentralized systems, and papers are unordered within each category.
 
 ## Background
 
@@ -34,10 +34,8 @@ change order of sections - add ones for bitcoin-->
 ### [Cryptocurrencies / Blockchains](#cryptocurrencies-blockchains)
 - **Bitcoin: A Peer-to-Peer Electronic Cash System** (2008), S. Nakamoto [[pdf]](https://bitcoin.org/bitcoin.pdf)
 - **Hashcash - A Denial of Service Counter-Measure** (2002), A. Back [[pdf]](http://www.hashcash.org/hashcash.pdf)
-- **An Analysis of Anonymity in the Bitcoin System** (2012), F. Reid and M. Harrigan [[pdf]](https://arxiv.org/pdf/1107.4524.pdf)
 - **KARMA: A Secure Economic Framework for Peer-to-Peer Resource Sharing** (2003), V. Vishnumurthy et al. [[pdf]]( http://cs.brown.edu/courses/csci2950-g/papers/karma.pdf)
 - **PPCoin: Peer-to-Peer Crypto-Currency with Proof-of-Stake** (2013), S. King and S. Nadal [[pdf]](  https://peercoin.net/assets/paper/peercoin-paper.pdf)
-- **A Fistful of Bitcoins: Characterizing Payments Among Men with No Names** (2013), S. Meiklejohn et al. [[pdf]](https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf)
 - **Reusable Proofs of Work** (2004), H. Finney [[html]](http://nakamotoinstitute.org/finney/rpow/theory.html)
 - **B-Money** (1998), W. Dai [[html]](http://www.weidai.com/bmoney.txt)
 - **SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies** (2015), J. Bonneau et al. [[pdf]](http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf)
@@ -50,6 +48,8 @@ change order of sections - add ones for bitcoin-->
 ### [Privacy](#privacy)
 - **Mixcoin: Anonymity for Bitcoin with accountable mixes** (2014), J. Bonneau et al. [[pdf]](https://github.com/ethereum/wiki/wiki/White-Paper)
 - **TumbleBit: An Untrusted Bitcoin-Compatible Anonymous Payment Hub** (2014), E. Heilman et al. [[pdf]](https://eprint.iacr.org/2016/575.pdf)
+- **A Fistful of Bitcoins: Characterizing Payments Among Men with No Names** (2013), S. Meiklejohn et al. [[pdf]](https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf)
+- **An Analysis of Anonymity in the Bitcoin System** (2012), F. Reid and M. Harrigan [[pdf]](https://arxiv.org/pdf/1107.4524.pdf)
 
 ### [Smart Contracts](#smart-contracts)
 - **Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform** (2014), V. Buterin et al. [[md]](https://github.com/ethereum/wiki/wiki/White-Paper)
