@@ -34,7 +34,6 @@ change order of sections - add ones for bitcoin-->
 ### [Cryptocurrencies / Blockchains](#cryptocurrencies-blockchains)
 - **Bitcoin: A Peer-to-Peer Electronic Cash System** (2008), S. Nakamoto [[pdf]](https://bitcoin.org/bitcoin.pdf)
 - **Hashcash - A Denial of Service Counter-Measure** (2002), A. Back [[pdf]](http://www.hashcash.org/hashcash.pdf)
-- **The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments** (2016), J. Poon and T. Dryja [[pdf]](https://lightning.network/lightning-network-paper.pdf)
 - **An Analysis of Anonymity in the Bitcoin System** (2012), F. Reid and M. Harrigan [[pdf]](https://arxiv.org/pdf/1107.4524.pdf)
 - **KARMA: A Secure Economic Framework for Peer-to-Peer Resource Sharing** (2003), V. Vishnumurthy et al. [[pdf]]( http://cs.brown.edu/courses/csci2950-g/papers/karma.pdf)
 - **PPCoin: Peer-to-Peer Crypto-Currency with Proof-of-Stake** (2013), S. King and S. Nadal [[pdf]](  https://peercoin.net/assets/paper/peercoin-paper.pdf)
@@ -45,6 +44,12 @@ change order of sections - add ones for bitcoin-->
 - **Provable Security for Cryptocurrencies** (2016), A. Miller [[pdf]](https://drum.lib.umd.edu/bitstream/handle/1903/18622/Miller_umd_0117E_17522.pdf?sequence=1)
 - **Non-interactive proofs of proof-of-work** (2017), A. Kiayias et al. [[pdf]](https://eprint.iacr.org/2017/963.pdf)
 - **Atomically Trading with Roger: Gambling on the success of a hardfork** (2017), P. McCorry et al. [[pdf]](http://homepages.cs.ncl.ac.uk/patrick.mc-corry/atomically-trading-roger.pdf)
+- **On Bitcoin and Red Balloons** (2012), M. Babaioff et al. [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2012/06/bitcoin.pdf)
+- **Quantitative Analysis of the Full Bitcoin Transaction Graph** (2012), D. Ron and A. Shamir [[pdf]](https://eprint.iacr.org/2012/584.pdf)
+
+### [Privacy](#privacy)
+- **Mixcoin: Anonymity for Bitcoin with accountable mixes** (2014), J. Bonneau et al. [[pdf]](https://github.com/ethereum/wiki/wiki/White-Paper)
+- **TumbleBit: An Untrusted Bitcoin-Compatible Anonymous Payment Hub** (2014), E. Heilman et al. [[pdf]](https://eprint.iacr.org/2016/575.pdf)
 
 ### [Smart Contracts](#smart-contracts)
 - **Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform** (2014), V. Buterin et al. [[md]](https://github.com/ethereum/wiki/wiki/White-Paper)
@@ -55,6 +60,16 @@ change order of sections - add ones for bitcoin-->
 - **BigchainDB: A Scalable Blockchain Database** (2016), T. McConaghy et al. [[pdf]](https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf)
 - **Filecoin: A Cryptocurrency Operated File Storage Network** (2017), J. Benet [[pdf]](http://filecoin.io/filecoin.pdf)
 - **Blockstack: A Global Naming and Storage System Secured by Blockchains** (2016), M. Ali et al. [[pdf]](http://www.cs.princeton.edu/~mfreed/docs/blockstack-atc16.pdf)
+
+### [Payment/State Channels](#paychan)
+- **The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments** (2016), J. Poon and T. Dryja [[pdf]](https://lightning.network/lightning-network-paper.pdf)
+- **Plasma: Scalable Autonomous Smart Contracts** (2017), J. Poon and V. Buterin [[pdf]](http://plasma.io/plasma.pdf)
+- **Concurrency and Privacy with Payment-Channel Networks∗** (2017), G. Malavolta and P. Moreno-Sanchez et al. [[pdf]](https://www.cs.purdue.edu/homes/pmorenos/public/paychannels.pdf)
+
+### [Credit Networks](#crednet)
+- **PathShuffle: Credit Mixing and Anonymous Payments for Ripple** (2016), P. Moreno-Sanchez et al. [[pdf]](https://www.cs.purdue.edu/homes/pmorenos/public/pathshuffle.pdf)
+- **SilentWhispers: Enforcing Security and Privacy in Decentralized Credit Networks** (2016), G. Malavolta and P. Moreno-Sanchez et al. [[pdf]](https://www.cs.purdue.edu/homes/pmorenos/public/pathshuffle.pdf)
+- **Listening to Whispers of Ripple: Linking Wallets and Deanonymizing Transactions in the Ripple Network** (2016), P. Moreno-Sanchez et al. [[pdf]](http://crypsys.mmci.uni-saarland.de/projects/LinkingWallets/paper.pdf)
 
 ### [Consensus](#consensus)
 - **Paxos Made Simple** (2001), L. Lamport [[pdf]](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
