@@ -132,11 +132,11 @@ change order of sections - add ones for bitcoin-->
 - Digital Currency Initative, Massachusetts Institute of Technology [[web]](http://dci.mit.edu/)
 - Applied Cryptography Group, Stanford University [[web]](https://crypto.stanford.edu/)
 - crypto@berkeley, University of California, Berkeley [[web]](https://crypto.eecs.berkeley.edu/)
+- The UCL Centre for Blockchain Technologies (CBT), University College London [[web]](http://blockchain.cs.ucl.ac.uk/)
 
 *(Conferences)*
 - Financial Cryptography [[web]](https://fc18.ifca.ai/)
 - IEEE Security & Privacy on the Blockchain (IEEE S&B) [[web]](http://ieee-sb2018.cs.ucl.ac.uk/#cfp)
-
 
 <!-- TODO: monetary policies, economics?, markets?, financial and economic implications research labs, and top researchers, disclaimer about focus on technology and not economics -->
 ## License
