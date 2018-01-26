@@ -76,6 +76,7 @@ change order of sections - add ones for bitcoin-->
 - **The Honey Badger of BFT Protocols** (2016), A. Miller et al. [[pdf]](https://eprint.iacr.org/2016/199.pdf)
 - **Power Fault Tolerance** (2017), Protocol Labs [[pdf]](http://filecoin.io/power-fault-tolerance.pdf)
 - **Practical Byzantine Fault Tolerance** (1999), M. Castro et al. [[pdf]](http://pmg.csail.mit.edu/papers/osdi99.pdf)
+- **Tangaroa: a Byzantine Fault Tolerant Raft** Christopher Copeland and Hongxia Zhong [pdf](http://www.scs.stanford.edu/14au-cs244b/labs/projects/copeland_zhong.pdf)
 - **Casper the Friendly Finality Gadget** (2017), V. Buterin and V. Griffith [[pdf]](https://arxiv.org/pdf/1710.09437.pdf)
 
 ### [Prediction Markets](#prediction-markets)
