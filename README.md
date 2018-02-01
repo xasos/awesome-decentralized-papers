@@ -44,6 +44,7 @@ change order of sections - add ones for bitcoin-->
 - **Atomically Trading with Roger: Gambling on the success of a hardfork** (2017), P. McCorry et al. [[pdf]](http://homepages.cs.ncl.ac.uk/patrick.mc-corry/atomically-trading-roger.pdf)
 - **On Bitcoin and Red Balloons** (2012), M. Babaioff et al. [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2012/06/bitcoin.pdf)
 - **Quantitative Analysis of the Full Bitcoin Transaction Graph** (2012), D. Ron and A. Shamir [[pdf]](https://eprint.iacr.org/2012/584.pdf)
+- **Mimblewimble** (2016), A. Poelstra [[pdf]](https://download.wpsoftware.net/bitcoin/wizardry/mimblewimble.pdf)
 
 ### [Privacy](#privacy)
 - **Mixcoin: Anonymity for Bitcoin with accountable mixes** (2014), J. Bonneau et al. [[pdf]](https://github.com/ethereum/wiki/wiki/White-Paper)
