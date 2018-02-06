@@ -113,6 +113,7 @@ change order of sections - add ones for bitcoin-->
 - CS251, Bitcoin and Cryptocurrencies, Stanford University [[web]](https://crypto.stanford.edu/cs251/)
 - Bitcoin and Cryptocurrency Technologies, Princeton University (Coursera) [[web]](https://www.coursera.org/learn/cryptocurrency)
 - 08-303, Cryptocurrencies, Blockchains, and Applications, Carnegie Mellon University [[web]](https://piazza.com/cmu/spring2017/08303)
+- MAS.S62, Cryptocurrency Engineering and Design, Massachusetts Institute of Technology [[web]](https://github.com/mit-dci/mas.s62)
 
 <!-- *(Tutorials)*
 - NIPS 2016 Tutorials, Long Beach [[web]](https://nips.cc/Conferences/2016/Schedule?type=Tutorial)
