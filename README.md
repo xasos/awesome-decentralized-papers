@@ -139,6 +139,7 @@ change order of sections - add ones for bitcoin-->
 *(Conferences)*
 - Financial Cryptography [[web]](https://fc18.ifca.ai/)
 - IEEE Security & Privacy on the Blockchain (IEEE S&B) [[web]](http://ieee-sb2018.cs.ucl.ac.uk/#cfp)
+- Blockchain Protocol Analysis and Security Engineering [[web]](https://cyber.stanford.edu/bpase18)
 
 <!-- TODO: monetary policies, economics?, markets?, financial and economic implications research labs, and top researchers, disclaimer about focus on technology and not economics -->
 ## License
