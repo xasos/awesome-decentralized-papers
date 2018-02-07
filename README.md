@@ -34,8 +34,6 @@ change order of sections - add ones for bitcoin-->
 ### [Cryptocurrencies / Blockchains](#cryptocurrencies-blockchains)
 - **Bitcoin: A Peer-to-Peer Electronic Cash System** (2008), S. Nakamoto [[pdf]](https://bitcoin.org/bitcoin.pdf)
 - **Hashcash - A Denial of Service Counter-Measure** (2002), A. Back [[pdf]](http://www.hashcash.org/hashcash.pdf)
-- **KARMA: A Secure Economic Framework for Peer-to-Peer Resource Sharing** (2003), V. Vishnumurthy et al. [[pdf]]( http://cs.brown.edu/courses/csci2950-g/papers/karma.pdf)
-- **PPCoin: Peer-to-Peer Crypto-Currency with Proof-of-Stake** (2013), S. King and S. Nadal [[pdf]](  https://peercoin.net/assets/paper/peercoin-paper.pdf)
 - **Reusable Proofs of Work** (2004), H. Finney [[html]](http://nakamotoinstitute.org/finney/rpow/theory.html)
 - **B-Money** (1998), W. Dai [[html]](http://www.weidai.com/bmoney.txt)
 - **SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies** (2015), J. Bonneau et al. [[pdf]](http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf)
@@ -79,6 +77,7 @@ change order of sections - add ones for bitcoin-->
 - **Tangaroa: a Byzantine Fault Tolerant Raft** Christopher Copeland and Hongxia Zhong [pdf](http://www.scs.stanford.edu/14au-cs244b/labs/projects/copeland_zhong.pdf)
 #### [Proof-of-Stake](#pos)
 - **Casper the Friendly Finality Gadget** (2017), V. Buterin and V. Griffith [[pdf]](https://arxiv.org/pdf/1710.09437.pdf)
+- **PPCoin: Peer-to-Peer Crypto-Currency with Proof-of-Stake** (2013), S. King and S. Nadal [[pdf]](  https://peercoin.net/assets/paper/peercoin-paper.pdf)
 
 ### [Prediction Markets](#prediction-markets)
 - **On Decentralizing Prediction Markets and Order Books** (2014), J. Clark et al. [[pdf]](http://www.econinfosec.org/archive/weis2014/papers/Clark-WEIS2014.pdf)
