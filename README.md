@@ -98,6 +98,9 @@ change order of sections - add ones for bitcoin-->
 - **Scalable Zero Knowledge via Cycles of Elliptic Curves** (2015), E. Ben-Sasson et al. [[pdf]](https://eprint.iacr.org/2014/595.pdf)
 - **Succinct Non-Interactive Zero Knowledge for a von Neumann Architecture** (2015), E. Ben-Sasson et al. [[pdf]](https://eprint.iacr.org/2013/879.pdf)
 
+### [Proof-of-Stake](#pos)
+
+
 * * *
 
 ### Book / Survey / Review
