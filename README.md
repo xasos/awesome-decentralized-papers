@@ -73,11 +73,11 @@ change order of sections - add ones for bitcoin-->
 - **Listening to Whispers of Ripple: Linking Wallets and Deanonymizing Transactions in the Ripple Network** (2016), P. Moreno-Sanchez et al. [[pdf]](http://crypsys.mmci.uni-saarland.de/projects/LinkingWallets/paper.pdf)
 
 ### [Consensus](#consensus)
-- **Paxos Made Simple** (2001), L. Lamport [[pdf]](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
+#### [Nakamoto/Proof-of-Work Consensus](#nakamoto)
 - **The Honey Badger of BFT Protocols** (2016), A. Miller et al. [[pdf]](https://eprint.iacr.org/2016/199.pdf)
 - **Power Fault Tolerance** (2017), Protocol Labs [[pdf]](http://filecoin.io/power-fault-tolerance.pdf)
-- **Practical Byzantine Fault Tolerance** (1999), M. Castro et al. [[pdf]](http://pmg.csail.mit.edu/papers/osdi99.pdf)
 - **Tangaroa: a Byzantine Fault Tolerant Raft** Christopher Copeland and Hongxia Zhong [pdf](http://www.scs.stanford.edu/14au-cs244b/labs/projects/copeland_zhong.pdf)
+#### [Proof-of-Stake](#pos)
 - **Casper the Friendly Finality Gadget** (2017), V. Buterin and V. Griffith [[pdf]](https://arxiv.org/pdf/1710.09437.pdf)
 
 ### [Prediction Markets](#prediction-markets)
@@ -98,9 +98,6 @@ change order of sections - add ones for bitcoin-->
 - **Zerocash: Decentralized Anonymous Payments from Bitcoin** (2014), E. Ben-Sasson et al. [[pdf]](http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf)
 - **Scalable Zero Knowledge via Cycles of Elliptic Curves** (2015), E. Ben-Sasson et al. [[pdf]](https://eprint.iacr.org/2014/595.pdf)
 - **Succinct Non-Interactive Zero Knowledge for a von Neumann Architecture** (2015), E. Ben-Sasson et al. [[pdf]](https://eprint.iacr.org/2013/879.pdf)
-
-### [Proof-of-Stake](#pos)
-
 
 * * *
 
